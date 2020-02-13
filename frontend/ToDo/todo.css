@@ -1,0 +1,26 @@
+.image-check {
+  background-image: url('./img/check.svg');
+  width:200px;
+  height:200px;
+  background-size: contain;
+}
+
+.image-cross {
+  background-image: url('./img/cross.svg');
+  width:200px;
+  height:200px;
+  background-size: contain;
+}
+
+
+.image-question {
+  background-image: url('./img/question.svg');
+  width:200px;
+  height:200px;
+  background-size: contain;
+}
+
+.image {
+  width:200px;
+  height:200px;
+}
